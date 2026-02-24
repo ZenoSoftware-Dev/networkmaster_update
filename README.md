@@ -26,4 +26,6 @@ Profesjonalne, wieloplatformowe narzędzie do diagnostyki, zarządzania i monito
 * **Licencjonowanie:** Centralne zarządzanie licencjami (Lemon Squeezy) z obsługą HWID i szyfrowaniem offline.
 * **Cross-Platform:** Natywne wsparcie dla **Windows 10/11** oraz **Linux** (Debian/Ubuntu/Mint/Kali).
 
+!!!UWAGA!!!
+Program wersji na Windows nie zawiera podpisu cyfrowego - SmartScreen może "krzyczeć" że program jest niebezpieczny
 ---
