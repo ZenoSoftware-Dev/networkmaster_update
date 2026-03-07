@@ -36,9 +36,8 @@ Profesjonalne, wieloplatformowe narzędzie do diagnostyki, zarządzania i monito
 * **Auto-Update (OTA):** Inteligentny system aktualizacji pobierający binarki bezpośrednio z GitHub Releases.
 * **Licencjonowanie:** Centralne zarządzanie licencjami (Lemon Squeezy) z obsługą HWID i szyfrowaniem offline.
 * **Cross-Platform:** Natywne wsparcie dla **Windows 10/11** oraz **Linux** (Debian/Ubuntu/Mint/Kali).
+* **Szyfrowanie Lokalne:** Wrażliwe dane (jak hasła, rejestry i logi) są chronione zaawansowanymi algorytmami kryptograficznymi przed nieautoryzowanym dostępem.
 
 !!! UWAGA !!!
 Wersja instalacyjna dla systemu Windows nie zawiera certyfikowanego podpisu cyfrowego – filtr Windows SmartScreen lub oprogramowanie antywirusowe może wyświetlić prewencyjne ostrzeżenie.
-!!!UWAGA!!!
-Program wersji na Windows nie zawiera podpisu cyfrowego - SmartScreen może "krzyczeć" że program jest niebezpieczny
 ---
